@@ -5,7 +5,7 @@ fun! TrimWhiteSpace()
 	call winrestview(l:save)
 endfun
 
-augroup LERAMPUS
+augroup SIVIM
 	autocmd!
 	autocmd BufWritePre * :call TrimWhiteSpace()
 augroup END
