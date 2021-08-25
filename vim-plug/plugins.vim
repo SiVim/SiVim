@@ -1,5 +1,6 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
 " Helper Plugs
+	Plug 'glepnir/dashboard-nvim'
 	Plug 'akinsho/bufferline.nvim'
     Plug 'vim-airline/vim-airline'
 	Plug 'kyazdani42/nvim-tree.lua'
