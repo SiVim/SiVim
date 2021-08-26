@@ -16,3 +16,8 @@ Finally, enter command mode in SiVim, and run the following: </br>
 
 ### Usage
 Refer to the [bindings.vim](https://github.com/SiVim/SiVim/blob/main/general/bindings.vim) + [sets.vim](https://github.com/SiVim/SiVim/blob/main/general/sets.vim) to see all keybindings and set statements.
+
+```sh
+curl -fLo ~/.var/app/io.neovim.nvim/data/nvim/site/autoload/plug.vim \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
