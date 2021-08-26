@@ -5,7 +5,7 @@ A minimalistic, fully functional customisation of neovim reflecting an IDE, cent
 If you already have an Nvim folder, make a backup: </br>
 `$ mv ~/.config/nvim ~/.config/nvim.backup`
 
-Install Vim-Plug: </br>
+Install [Vim-Plug](https://github.com/junegunn/vim-plug): </br>
 `$ curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
 
 After, clone this repo into your current nvim config: </br>
