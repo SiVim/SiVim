@@ -10,3 +10,6 @@ Install Vim-Plug: </br>
 
 After, clone this repo into your current nvim config: </br>
 `$ git clone https://github.com/SiVim/SiVim ~/.config/nvim`
+
+Finally, enter command mode in SiVim, and run the following: </br>
+`:PlugInstall` - Capitalization matters.
