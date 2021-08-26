@@ -1,7 +1,9 @@
 # SiVim - Work in progress, install with awareness.
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
 
-## Installation:
-### If you have an existing Nvim config:
+## Installation: (Requirements: Neovim 5.0+)
+If you already have an Nvim folder, make a backup:
+`$ mv ~/.config/nvim ~/.config/nvim.backup`
 
-### If you have not yet installed Nvim:
+After, clone this repo into your current nvim config:
+git clone https://github.com/SiVim/SiVim ~/.config/nvim
