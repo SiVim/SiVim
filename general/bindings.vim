@@ -10,3 +10,8 @@ nnoremap <leader>d :NvimTreeOpen<Enter>
 " Buffers
 nnoremap <leader>a :BufferLineCycleNext<Enter>
 nnoremap <leader>e :BufferLineCloseRight<Enter>
+
+" Rebinds
+nnoremap <leader>c :vsplit<Enter>
+nnoremap <leader>x :split<Enter>
+nnoremap <leader>r :term<Enter>
