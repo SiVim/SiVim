@@ -1,4 +1,4 @@
-# SiVim - Work in progress, install with awareness.
+# SiVim - Currently a work in progress
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
 
 ### Installation (Requirements: [Neovim 5.0+ / Nightly](https://github.com/neovim/neovim/releases/tag/nightly))
