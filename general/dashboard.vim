@@ -17,3 +17,4 @@ let s:dashboard_custom_shortcut = [
 	\ 'find_word',
 	\ 'book_marks',
 	\]
+
