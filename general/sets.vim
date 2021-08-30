@@ -8,10 +8,10 @@ set nobackup
 set scrolloff=4
 set signcolumn=yes
 set mouse=a
-set background=dark
 set title
 
 " Visual
+set background=dark
 set termguicolors
 set cmdheight=2
 set signcolumn=yes
