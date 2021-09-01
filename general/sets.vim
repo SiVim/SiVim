@@ -8,6 +8,7 @@ set nobackup
 set scrolloff=4
 set signcolumn=yes
 set mouse=a
+set number
 set title
 
 " Visual
