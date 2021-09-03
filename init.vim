@@ -7,4 +7,5 @@ source $HOME/.config/nvim/general/bindings.vim
 source $HOME/.config/nvim/general/tree.vim
 source $HOME/.config/nvim/vim-plug/plugins.vim
 
+" Bufferline
 lua require("bufferline").setup{}

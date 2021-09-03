@@ -18,6 +18,7 @@ set cmdheight=2
 set signcolumn=yes
 set colorcolumn=80
 set cursorline
+set paste
 
 " External
 autocmd TermOpen * setlocal nonumber norelativenumber
