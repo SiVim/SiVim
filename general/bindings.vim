@@ -16,4 +16,4 @@ nnoremap <leader>e :BufferLineCloseRight<Enter>
 " Rebinds
 nnoremap <leader>c :vsplit<Enter>
 nnoremap <leader>x :split<Enter>
-nnoremap <leader>r :term<Enter>
+nnoremap <leader>t :term<Enter>
