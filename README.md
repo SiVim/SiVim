@@ -1,7 +1,7 @@
 # SiVim - Currently a work in progress
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
 
-### Installation (Requirements: [Neovim 5.0 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
+### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If you already have an Nvim folder, make a backup: </br>
 ```
 $ mv ~/.config/nvim ~/.config/nvim.backup
