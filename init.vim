@@ -9,3 +9,4 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 " Bufferline
 lua require("bufferline").setup{}
+lua require('lualine').setup()

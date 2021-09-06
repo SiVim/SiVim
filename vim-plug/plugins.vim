@@ -1,7 +1,7 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
 " Functionality
+	Plug 'hoob3rt/lualine.nvim'
 	Plug 'akinsho/bufferline.nvim'
-    Plug 'vim-airline/vim-airline'
 	Plug 'kyazdani42/nvim-tree.lua'
 	Plug 'nvim-telescope/telescope.nvim'
     Plug 'nvim-telescope/telescope-fzy-native.nvim'
@@ -15,12 +15,13 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
 " Themes
     Plug 'sainnhe/everforest'
+	Plug 'mangeshrex/uwu.vim'
 	Plug 'navarasu/onedark.nvim'
     Plug 'gruvbox-community/gruvbox'
 
 call plug#end()
 
-colorscheme everforest
+colorscheme gruvbox
 highlight Normal guibg=none ctermbg=none
 highlight LineNr guibg=none ctermbg=none
 highlight Folded guibg=none ctermbg=none
