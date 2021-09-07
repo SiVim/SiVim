@@ -1,5 +1,6 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
 " Functionality
+    Plug 'junegunn/goyo.vim'
 	Plug 'hoob3rt/lualine.nvim'
 	Plug 'akinsho/bufferline.nvim'
 	Plug 'kyazdani42/nvim-tree.lua'
