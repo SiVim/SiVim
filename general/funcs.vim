@@ -12,5 +12,5 @@ augroup END
 
 augroup WrapLineInTeXFile
     autocmd!
-    autocmd FileType vim setlocal wrap
+    autocmd FileType txt setlocal wrap
 augroup END
