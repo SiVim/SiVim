@@ -22,3 +22,6 @@ Finally, enter command mode in SiVim, and run the following: </br>
 
 ### Usage
 Refer to the [bindings.vim](https://github.com/SiVim/SiVim/blob/main/general/bindings.vim) + [sets.vim](https://github.com/SiVim/SiVim/blob/main/general/sets.vim) to see all keybindings and set statements.
+
+### Warning:
+Currently, SiVim does not have autocomplete, though it will in the near future.
