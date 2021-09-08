@@ -1,0 +1,197 @@
+/*General*/
+.home-section {
+  position: relative;
+  background: #181629;
+  overflow-y: hidden;
+  top: 0;
+  left: 78px;
+  width: calc(100% - 78px);
+  transition: all 0.5s ease;
+  z-index: 2;
+}
+
+.home-section text {
+  color: white;
+  display: block;
+  font-size: 16px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.home-section code {
+  background-color: #312e57; opacity: .8;
+  border-radius: 4px;
+  display: inline-block;
+  color: white;
+  font-size: 16px;
+  padding: 2px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.home-section ul {
+  color: white;
+  display: block;
+  font-size: 16px;
+  width: 84%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.home-section table {
+  color: white;
+}
+
+/*Index*/
+.home-section .index h1 {
+  color: white;
+  display: block;
+  font-size: 30px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid white;
+}
+
+.home-section .index h2 {
+  color: white;
+  display: block;
+  font-size: 24px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid white;
+}
+
+.home-section .index h3 {
+  color: white;
+  display: block;
+  font-size: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.home-section .index img {
+  border-radius: 10px;
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+}
+
+/*Getting Started*/
+.home-section .getting-started h1 {
+  color: white;
+  display: block;
+  font-size: 30px;
+  font-weight: 500;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid white
+}
+
+.home-section .getting-started h2 {
+  color: white;
+  display: block;
+  font-size: 24px;
+  font-weight: unset;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid white;
+}
+
+.home-section .getting-started h3 {
+  color: white;
+  display: block;
+  font-size: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.home-section .getting-started text code {
+  padding: 10px;
+}
+
+.home-section .getting-started ul {
+  color: white;
+  display: block;
+  font-size: 16px;
+  width: 42%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*Configuration*/
+.home-section .configuration h1 {
+  color: white;
+  display: block;
+  font-size: 30px;
+  font-weight: 500;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid white
+}
+
+.home-section .configuration h2 {
+  color: white;
+  display: block;
+  font-size: 24px;
+  font-weight: unset;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid white;
+}
+
+.home-section .configuration h3 {
+  color: white;
+  display: block;
+  font-size: 24px;
+  font-weight: unset;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  border: 1px solid white;
+}
+
+.home-section .configuration code {
+  padding: 10px;
+  width:  100%;
+}
+
+/* @media only screen and (max-width: 500px) {
+  .home-section {
+    width: calc(100% - 78px);
+  }
+} */

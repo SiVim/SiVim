@@ -1,0 +1,28 @@
+/*Header*/
+.nav_links li {
+  color: white;
+  list-style: none;
+  display: inline-block;
+  padding: 0px 20px;
+  padding-top: 22px;
+}
+
+.nav_links li a {
+  transition: all 0.3s ease 0s;
+  color: #FFF;
+}
+
+.nav_links li a:hover {
+  color: #585297;
+}
+
+/*Footer*/
+.foot_nav a {
+  color: white;
+  list-style: none;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
