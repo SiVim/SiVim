@@ -25,3 +25,8 @@ Refer to the [bindings.vim](https://github.com/SiVim/SiVim/blob/main/general/bin
 
 ### Warning:
 Currently, SiVim does not have autocomplete, though it will in the near future.
+
+### Unique Features:
+One of my personal favourites:
+Goyo:
+Restricts borders, and formats itself similarly to a
