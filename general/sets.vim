@@ -1,6 +1,8 @@
 " Functionality
 set tabstop=4 softtabstop=4
+set shiftwidth=4
 set smartindent
+set autoindent
 set hidden
 set nowrap
 set noswapfile
