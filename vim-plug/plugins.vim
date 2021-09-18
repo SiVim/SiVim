@@ -16,13 +16,12 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
 " Themes
     Plug 'sainnhe/everforest'
-	Plug 'mangeshrex/uwu.vim'
 	Plug 'navarasu/onedark.nvim'
     Plug 'gruvbox-community/gruvbox'
 
 call plug#end()
 
-colorscheme gruvbox
+colorscheme everforest
 highlight Normal guibg=none ctermbg=none
 highlight LineNr guibg=none ctermbg=none
 highlight Folded guibg=none ctermbg=none
@@ -31,3 +30,4 @@ highlight SpecialKey guibg=none ctermbg=none
 highlight VertSplit guibg=none ctermbg=none
 highlight SignColumn guibg=none ctermbg=none
 highlight EndOfBuffer guibg=none ctermbg=none
+highlight NvimTreeNormal guibg=none ctermbg=none
