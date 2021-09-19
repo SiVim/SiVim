@@ -17,3 +17,9 @@ nnoremap <leader>e :BufferLineCloseRight<Enter>
 nnoremap <leader>c :vsplit<Enter>
 nnoremap <leader>x :split<Enter>
 nnoremap <leader>t :term<Enter>
+
+" Movement
+nnoremap <C-H> <C-W>h
+nnoremap <C-J> <C-W>j
+nnoremap <C-K> <C-W>k
+nnoremap <C-L> <C-W>l
