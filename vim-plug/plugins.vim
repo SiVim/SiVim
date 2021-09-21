@@ -8,6 +8,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'nvim-telescope/telescope-fzy-native.nvim'
 
 " Visual
+	Plug 'wfxr/minimap.vim'
     Plug 'nvim-lua/popup.nvim'
 	Plug 'jiangmiao/auto-pairs'
     Plug 'nvim-lua/plenary.nvim'
@@ -18,10 +19,11 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'sainnhe/everforest'
 	Plug 'navarasu/onedark.nvim'
     Plug 'gruvbox-community/gruvbox'
+	Plug 'ghifarit53/tokyonight-vim'
 
 call plug#end()
 
-colorscheme everforest
+colorscheme gruvbox
 highlight Normal guibg=none ctermbg=none
 highlight LineNr guibg=none ctermbg=none
 highlight Folded guibg=none ctermbg=none
