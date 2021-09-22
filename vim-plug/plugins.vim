@@ -20,10 +20,11 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'navarasu/onedark.nvim'
     Plug 'gruvbox-community/gruvbox'
 	Plug 'ghifarit53/tokyonight-vim'
+	Plug 'drewtempelmeyer/palenight.vim'
 
 call plug#end()
 
-colorscheme gruvbox
+colorscheme palenight
 highlight Normal guibg=none ctermbg=none
 highlight LineNr guibg=none ctermbg=none
 highlight Folded guibg=none ctermbg=none
