@@ -1,6 +1,5 @@
 # SiVim - Currently a work in progress
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
-```<a href="https://github.com/SiVim/SiVim/blob/main/screenshots/Svim.png"><img src="https://github.com/SiVim/SiVim/blob/main/screenshots/Svim.png"></a>```
 
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If you already have an Nvim folder, make a backup: </br>
