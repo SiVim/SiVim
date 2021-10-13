@@ -24,7 +24,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
 call plug#end()
 
-colorscheme palenight
+colorscheme gruvbox
 highlight Normal guibg=none ctermbg=none
 highlight LineNr guibg=none ctermbg=none
 highlight Folded guibg=none ctermbg=none

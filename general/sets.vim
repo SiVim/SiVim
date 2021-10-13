@@ -16,7 +16,7 @@ set title
 " Visual
 set background=dark
 set termguicolors
-set cmdheight=2
+set cmdheight=1
 set signcolumn=yes
 set colorcolumn=80
 set cursorline

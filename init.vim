@@ -1,3 +1,12 @@
+"  ____  ___     ___
+" / ___|(_) \   / (_)_ __ ___
+" \___ \| |\ \ / /| | '_ ` _ \
+"  ___) | | \ V / | | | | | | |
+" |____/|_|  \_/  |_|_| |_| |_|
+" Author: https://github.com/rampus-bit
+" Github: https://github.com/SiVim/SiVim
+" Organization: https://github.com/SiVim
+
 " General File Sources
 source $HOME/.config/nvim/general/sets.vim
 source $HOME/.config/nvim/general/funcs.vim
