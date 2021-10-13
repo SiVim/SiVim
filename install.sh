@@ -18,6 +18,7 @@ changedir() {
 if [ ! -d "$HOME/.config/nvim" ]
 then
 	echo "Please install Neovim."
+	exit
 else
 	changedir
 fi
