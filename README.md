@@ -6,8 +6,8 @@ If preferred, you can use curl to install SiVim:
 ```
 curl -s https://raw.githubusercontent.com/SiVim/SiVim/main/install.sh | bash -s
 ```
-Otherwise, you can install manually here ↓
 
+Otherwise, you can install manually here ↓
 ### Manual Installation
 If you already have an Nvim folder, make a backup: </br>
 ```
