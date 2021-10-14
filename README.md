@@ -4,7 +4,7 @@ A minimalistic, fully functional customisation of neovim reflecting an IDE, cent
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
 ```
-curl -s https://raw.githubusercontent.com/hackorum/VapourNvim/main/install.sh | bash -s
+curl -s https://raw.githubusercontent.com/SiVim/SiVim/main/install.sh | bash -s
 ```
 Otherwise, you can install manually here ↓
 
