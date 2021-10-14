@@ -2,6 +2,13 @@
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
 
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
+If preferred, you can use curl to install SiVim:
+```
+curl -s https://raw.githubusercontent.com/hackorum/VapourNvim/main/install.sh | bash -s
+```
+Otherwise, you can install manually here ↓
+
+### Manual Installation
 If you already have an Nvim folder, make a backup: </br>
 ```
 $ mv ~/.config/nvim ~/.config/nvim.backup
