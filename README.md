@@ -1,4 +1,4 @@
-# SiVim - Currently a work in progress
+<h1 align="center">SiVim</h1>
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
 
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
