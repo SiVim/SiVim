@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://github.com/SiVim/SiVim/blob/main/images/SiVim-Large.png" height="100px"></h3>
+<h3 align="center"><img src="https://github.com/SiVim/SiVim/blob/main/images/SiVim-Large.png" height="160px"></h3>
 
 A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.
 
