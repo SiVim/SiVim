@@ -9,8 +9,8 @@
 </p>
 
 ## Project
-This project is intended to provide a minimalistic, but customized version of NeoVim.
-It also serves as a learning experience for [me](https://github.com/rampus-bit)
+This project is intended to provide a minimalistic, but customized version of NeoVim.</br>
+It also serves as a learning experience, and introduction to managing a Github project.
 
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
