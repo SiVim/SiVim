@@ -8,6 +8,10 @@
 <img src="https://github.com/SiVim/SiVim/blob/main/screenshots/Showcase.png">
 </p>
 
+## Project
+This project is intended to provide a minimalistic, but customized version of NeoVim.
+It also serves as a learning experience for [me](https://github.com/rampus-bit)
+
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
 ```
