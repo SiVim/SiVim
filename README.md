@@ -16,6 +16,14 @@ SiVim:
  - **Configurability**. SiVim has been deliberately written in Vim-Script for people new to programming. The goal was to make syntax easy to read, and manipulate with numerous comments to direct the user.
  - **Minimalistic**. Simplicity is a main factor in SiVim, with it having only 12 plugins, and 5 themes.
 
+## Features
+ - Simple installation
+ - Eloquent navigation
+ - Easy on the eyes
+ - Blazing fast multi-buffer toggling
+ - Syntax highlighting with treesitter
+ - Speed oriented custom keybindings
+
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
 ```
