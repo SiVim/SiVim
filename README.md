@@ -2,7 +2,7 @@
   <img src="https://github.com/SiVim/SiVim/blob/main/images/SiVim-Large.png" height="130px">
 </h1>
 
-<h5 align="center">A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.</h5>
+<h4 align="center">A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.</h4>
 
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
