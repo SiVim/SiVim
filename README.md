@@ -24,7 +24,7 @@ SiVim:
  - Syntax highlighting with treesitter
  - Speed oriented custom keybindings
 
-### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
+## Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
 ```
 curl -s https://raw.githubusercontent.com/SiVim/SiVim/main/install.sh | bash -s
