@@ -4,6 +4,8 @@
 
 <h4 align="center">A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.</h4>
 
+## Showcase
+
 ### Installation (Requirements: [Neovim 0.5 or Greater](https://github.com/neovim/neovim/releases/tag/nightly))
 If preferred, you can use curl to install SiVim:
 ```
