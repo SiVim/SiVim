@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/SiVim/SiVim/blob/main/images/SiVim-Large.png" height="130px">
+  <img src="https://github.com/SiVim/SiVim/blob/main/images/SiVim-Large.png" height="120px">
 </h1>
 
 <h4 align="center">A minimalistic, fully functional customisation of neovim reflecting an IDE, centred around simplicity.</h4>
