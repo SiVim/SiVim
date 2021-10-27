@@ -6,6 +6,8 @@ downloadrepo() {
 
 	echo "Downloading Vim-Plug..."
 	curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+	rm -rf images && rm -rf screenshots && rm README.md && rm install.sh
 }
 
 changedir() {
