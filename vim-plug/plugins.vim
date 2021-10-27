@@ -16,15 +16,15 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 " Themes
-    Plug 'sainnhe/everforest'
 	Plug 'navarasu/onedark.nvim'
+	Plug 'sainnhe/gruvbox-material'
     Plug 'gruvbox-community/gruvbox'
 	Plug 'ghifarit53/tokyonight-vim'
 	Plug 'drewtempelmeyer/palenight.vim'
 
 call plug#end()
 
-colorscheme gruvbox
+colorscheme gruvbox-material
 highlight Normal guibg=none ctermbg=none
 highlight LineNr guibg=none ctermbg=none
 highlight Folded guibg=none ctermbg=none
