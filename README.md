@@ -8,8 +8,6 @@
 
 ## Project
 This project is intended to provide a minimalistic, but customized version of NeoVim. It also serves as a learning experience, and introduction to managing a Github project.
-
-SiVim:
  - **IDE Like**. Sivim has been customized to perform similarly to an IDE, like VsCode.
  - **Configurability**. SiVim has been deliberately written in Vim-Script for people new to programming. The goal was to make syntax easy to read, and manipulate with numerous comments to direct the user.
  - **Minimalistic**. Simplicity is a main factor in SiVim, with it having only 12 plugins, and 5 themes.
