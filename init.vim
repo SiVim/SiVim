@@ -19,4 +19,5 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 " Buffer + Lualine
 lua require('bufferline').setup()
+lua require('nvim-tree').setup()
 lua require('lualine').setup()
